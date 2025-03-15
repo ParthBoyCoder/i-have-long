@@ -8,7 +8,7 @@ def mail(content):
     # Email Configuration
     sender_email = "parthib.soursh@gmail.com"
     receiver_email = "banerjeeparthib63@gmail.com"
-    password = "dwck wrib vtos tobk"  # Use an App Password if using Gmail
+    password = ""  # Use an App Password if using Gmail
 
     # Create Email
     msg = EmailMessage()
